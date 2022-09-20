@@ -1,4 +1,5 @@
 ### Olá! Eu sou Matheus Milanez  👋
+### Cursando Tecnologia de sistemas de informação(Tecnólogo)- 3/6 Concluido.:computer:
 
 <div align="center">
   <a href="https://github.com/MatheusMilanez">
