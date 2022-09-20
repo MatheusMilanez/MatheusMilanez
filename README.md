@@ -12,7 +12,7 @@
   <img align="center" alt="Math-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/992450971315748906/1021521134329544744/Math-img.jpeg?width=284&height=426">
+  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/992534805394771998/1021593203037720597/Math-img-removebg-preview.png?width=284&height=426">
 </div>
 
 ##
