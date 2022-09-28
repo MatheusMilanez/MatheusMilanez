@@ -1,5 +1,6 @@
 ### Olá! Eu sou Matheus Milanez  👋
 ### Cursando Tecnologia de sistemas de informação(Tecnólogo)- 3/6 Concluido.:computer:
+### Cursando Introdução CIÊNCIA DA COMPUTAÇÃO DE HARVARD:
 
 <div align="center">
   <a href="https://github.com/MatheusMilanez">
