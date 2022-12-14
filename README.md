@@ -1,4 +1,7 @@
 ### Olá! Eu sou Matheus Milanez  👋
+### FORMAÇÃO:
+    Tecnólogo em Sistemas de Informção - 4/6 Concluido.:computer:
+    Introdução CIÊNCIA DA COMPUTAÇÃO DE HARVARD - 3/12 Módulos:computer:
 
 <div align="center">
   <a href="https://github.com/MatheusMilanez">
