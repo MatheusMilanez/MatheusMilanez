@@ -1,6 +1,5 @@
 ### Olá! Eu sou Matheus Milanez  👋
-### Formação:
-    Tecnólogo em Sistemas de Informção - 4/6 Concluido.
+Tecnólogo em Sistemas de Informção - 4/6 Concluido.
 <div align="center">
   <a href="https://github.com/MatheusMilanez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusMilanez&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
