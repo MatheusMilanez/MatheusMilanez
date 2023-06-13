@@ -1,23 +1,35 @@
-### Olá! Eu sou Matheus Milanez  👋
-Tecnólogo em Sistemas de Informção - 4/6 Concluido.
+# 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I like to explore new technologies and develop software solutions for the web.\
+🎓 &nbsp; Currently studying Technologist in Information System at UNISÃOJOSÉ in Rio de Janeiro-RJ.\
+🧭 &nbsp; I'm on the right track to learn more about Front-end, Back-end and Data-Science.\
+✍️ &nbsp; In my free time, I try to spend time with my girlfriend, play games and read.\
+✉️ &nbsp; You can shoot me an email at <matheusmmlopes19@gmail.com>. I'll try to respond as soon as I can.
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=0081CB)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/ubuntu/v/linux?color=yellow&logo=linux&logoColor=yellow)
+![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft&logoColor=white)
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
   <a href="https://github.com/MatheusMilanez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusMilanez&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMilanez&layout=compact&langs_count=7&theme=default_repocard"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Math-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Math-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/992534805394771998/1021593203037720597/Math-img-removebg-preview.png?width=284&height=426">
-</div>
-
-##
+### 🤝🏻 &nbsp;Connect with Me
 
 <div>
   <a href="https://www.youtube.com/channel/UCTXrYkyjxE6KmNIotqn8o7A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
