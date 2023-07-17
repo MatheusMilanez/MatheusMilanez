@@ -2,7 +2,7 @@
 
 💡 &nbsp; I like to explore new technologies and develop software solutions for the web.\
 🎓 &nbsp; Currently studying Technologist in Information System at UNISÃOJOSÉ in Rio de Janeiro-RJ.\
-🧭 &nbsp; I'm on the right track to learn more about Front-end, Back-end and Data-Science.\
+🧭 &nbsp; I'm on the right track to learn more about Front-end.\
 ✍️ &nbsp; In my free time, I try to spend time with my girlfriend, play games and read.\
 ✉️ &nbsp; You can shoot me an email at <matheusmmlopes19@gmail.com>. I'll try to respond as soon as I can.
 
